@@ -10,12 +10,13 @@ The task is based on the daily bike sharing demand dataset and focuses on explor
 .
 ├── data/
 │   └── raw/
-│       └── day.csv
-        └── Data_Readme.txt
+│       ├── day.csv
+│       └── Data_Readme.txt
 ├── outputs/
 │   └── DataScience_Task_202605.html
 ├── DataScience_Task_202605.ipynb
 ├── requirements.txt
+├── requirements-freeze.txt
 ├── pyproject.toml
 ├── uv.lock
 └── README.md
